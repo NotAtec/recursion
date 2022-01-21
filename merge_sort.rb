@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def merge_sort(arr)
   return arr if arr.length == 1
 
@@ -19,7 +21,9 @@ def merge_sort(arr)
     end
   end
 end
-
-arr = [1, 5, 2, 4, 3, 6, 7, 9, 10, 8]
-
+arr = []
+rand(200).times do
+  arr << rand(200)
+end
+p arr
 p merge_sort(arr)
