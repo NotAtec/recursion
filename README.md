@@ -1,5 +1,5 @@
 # Recursion Assignment
-This project contains 2 assignments for [The Odin Project](). They are part of the basic Computer Science part of the Ruby full stack path.
+This project contains 2 assignments for [The Odin Project](https://www.theodinproject.com/). They are part of the basic Computer Science part of the Ruby full stack path.
 
 ## Assignment 1: Fibonacci
 Assignment 1 required me to create a method that gives the n-th number in the fibonacci sequence.
